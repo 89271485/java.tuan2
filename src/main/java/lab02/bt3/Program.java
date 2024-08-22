@@ -9,5 +9,12 @@ package lab02.bt3;
  * @author ADMIN
  */
 public class Program {
+    public static void main(String[] args) {
+        menu();
+    }
+
+    private static void menu() {
+        int
+    }
     
 }
